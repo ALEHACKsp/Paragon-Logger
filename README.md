@@ -1,3 +1,5 @@
+# UNTIL THE FOLDERS ARE CHANGED PLEASE USE THE SECOND VERSION LISTED
+
 # Paragon-Logger
 
 Logs And Backs up all Paragon Events to a handy dated file in a subfolder called `logs`
